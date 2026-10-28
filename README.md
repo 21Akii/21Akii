@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34105733/README.md)
+
 <div align="center">
 
 <sub>AKRAM CHERBANE · FREELANCE DEVELOPER</sub>
